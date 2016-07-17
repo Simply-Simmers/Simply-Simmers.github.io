@@ -11,13 +11,13 @@ body	{
 }
 
 h2	{
-	font-family:monospace;
+	font-family:Courier;
 	color:white;
 	text-align:center;
 }
 
 p	{
 		color:white;
-		font-family:monospace;
+		font-family:Courier;
 		text-align:center;
 }
