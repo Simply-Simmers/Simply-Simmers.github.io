@@ -11,13 +11,13 @@ body	{
 }
 
 h2	{
-	font-family:Monaco;
+	font-family:monospace;
 	color:white;
 	text-align:center;
 }
 
 p	{
 		color:white;
-		font-family:Monaco;
+		font-family:monospace;
 		text-align:center;
 }
