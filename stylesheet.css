@@ -23,14 +23,18 @@ p	{
 }
 
 div	{
-		background-color:white;
+		background-color:#b30000;
 		width:75px;
 		height:25px;
 		display:block;
 		margin-left:auto;
 		margin-right:auto;
+		border:3px solid #800000;
 }
 
 div p	{
-		color:black;
+		color:#ccccff;
+		margin-top:5px;
+		text-decoration:none;
+		
 }
