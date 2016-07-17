@@ -1,0 +1,23 @@
+#ASD	{
+		display:block;
+		margin-left:auto;
+		margin-right:auto;
+		
+}
+
+body	{
+		background-color:black;
+	
+}
+
+h2	{
+	font-family:monospace;
+	color:white;
+	text-align:center;
+}
+
+p	{
+		color:white;
+		font-family:monospace;
+		text-align:center;
+}
