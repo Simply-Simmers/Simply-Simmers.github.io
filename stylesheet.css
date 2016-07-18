@@ -38,3 +38,16 @@ div p	{
 		text-decoration:none;
 		
 }
+
+.Edge	{
+		color:white;
+		text-align:right;
+		bottom: 0;
+		position:absolute;
+		margin-top:40px;
+		font-size:10px;
+}
+
+em	{
+	color:red;	
+}
